@@ -2,7 +2,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wuyushuwys&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuyushuwys&theme=vue-dark&show_icons=true&layout=compact&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuyushuwys&theme=vue-dark&show_icons=true&layout=compact&langs_count=8&hide=MATLAB" />
 </a>
 
 
