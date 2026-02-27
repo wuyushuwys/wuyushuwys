@@ -1,24 +1,16 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wuyushuwys&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuyushuwys&theme=vue-dark&show_icons=true&layout=compact&langs_count=8&hide=MATLAB" />
-</a>
+# Yushu Wu
 
+Ph.D. Candidate, Northeastern University  
 
-<!--### Hi there 👋 -->
+I conduct research on efficient generative video models, with a focus on translating large-scale diffusion and transformer architectures into deployable systems under strict latency and memory constraints.
 
-<!--
-**wuyushuwys/wuyushuwys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My work spans model design, post-training optimization, and system-level acceleration, bridging generative modeling and real-world deployment.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Areas
+- Efficient Video Diffusion
+- Post-Training Optimization
+- Latency- and Memory-Constrained Inference
+- Model–System Co-Design
+- On-Device Generative AI
