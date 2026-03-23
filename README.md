@@ -1,6 +1,6 @@
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/wuyushuwys?cardType=level&theme=vue-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+# Yushu Wu
 
-**Yushu Wu**, Ph.D. Candidate, Northeastern University  
+Ph.D. Candidate, Northeastern University  
 
 I conduct research on efficient generative video models, with a focus on translating large-scale diffusion and transformer architectures into deployable systems under strict latency and memory constraints.
 
