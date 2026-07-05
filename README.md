@@ -1,6 +1,6 @@
 # Yushu Wu
 
-Ph.D. Candidate, Northeastern University  
+Ph.D. in Computer Engineering @ Northeastern University  
 
 I conduct research on efficient generative video models, with a focus on translating large-scale diffusion and transformer architectures into deployable systems under strict latency and memory constraints.
 
